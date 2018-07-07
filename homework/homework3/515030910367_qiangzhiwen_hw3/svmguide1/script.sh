@@ -1,0 +1,32 @@
+#!/bin/bash
+echo "begin"
+echo "Original sets with default parameters"
+svm-train svmguide1 
+svm-predict svmguide1.t svmguide1.model svmguide1.t.predict 
+
+echo "Scaled sets with default parameters"
+svm-scale -l -1 -u 1 -s range1 svmguide1 > svmguide1.scale 
+svm-scale -r range1 svmguide1.t > svmguide1.t.scale 
+svm-train svmguide1.scale 
+svm-predict svmguide1.t.scale svmguide1.scale.model svmguide1.t.predict
+
+echo "linear"
+svm-train -t 0 svmguide1.scale 
+svm-predict svmguide1.t.scale svmguide1.scale.model svmguide1.t.predict 
+
+echo "polynomial"
+svm-train -t 1 svmguide1.scale 
+svm-predict svmguide1.t.scale svmguide1.scale.model svmguide1.t.predict 
+
+echo "sigmoid"
+svm-train -t 3 svmguide1.scale 
+svm-predict svmguide1.t.scale svmguide1.scale.model svmguide1.t.predict
+
+echo "radial basis function"
+svm-train -t 2 svmguide1.scale 
+svm-predict svmguide1.t.scale svmguide1.scale.model svmguide1.t.predict 
+
+echo "rbf grid test"
+svm-train -c 2.0 -g 2.0 svmguide1.scale 
+svm-predict svmguide1.t.scale svmguide1.scale.model svmguide1.t.predic
+echo "end"

@@ -1,0 +1,59 @@
+begin
+Original sets with default parameters
+...*..*
+optimization finished, #iter = 5371
+nu = 0.606150
+obj = -1061.528918, rho = -0.495266
+nSV = 3053, nBSV = 722
+Total nSV = 3053
+Accuracy = 66.925% (2677/4000) (classification)
+Scaled sets with default parameters
+*
+optimization finished, #iter = 496
+nu = 0.202599
+obj = -507.307046, rho = 2.627039
+nSV = 630, nBSV = 621
+Total nSV = 630
+Accuracy = 96.15% (3846/4000) (classification)
+linear
+*
+optimization finished, #iter = 736
+nu = 0.178349
+obj = -479.457030, rho = -13.009028
+nSV = 553, nBSV = 549
+Total nSV = 553
+Accuracy = 95.675% (3827/4000) (classification)
+polynomial
+*
+optimization finished, #iter = 455
+nu = 0.247077
+obj = -604.194990, rho = -3.427273
+nSV = 767, nBSV = 760
+Total nSV = 767
+Accuracy = 95.725% (3829/4000) (classification)
+sigmoid
+*
+optimization finished, #iter = 704
+nu = 0.273214
+obj = -855.993263, rho = -12.536175
+nSV = 845, nBSV = 842
+Total nSV = 845
+Accuracy = 87.575% (3503/4000) (classification)
+radial basis function
+*
+optimization finished, #iter = 496
+nu = 0.202599
+obj = -507.307046, rho = 2.627039
+nSV = 630, nBSV = 621
+Total nSV = 630
+Accuracy = 96.15% (3846/4000) (classification)
+rbf grid test
+*
+optimization finished, #iter = 528
+nu = 0.113145
+obj = -595.595777, rho = 0.055853
+nSV = 368, nBSV = 331
+Total nSV = 368
+Accuracy = 96.875% (3875/4000) (classification)
+end
+

@@ -1,0 +1,351 @@
+Step: 0 Loss: 2.6666334 Training accuracy: 0.11
+Step: 100 Loss: 2.5762634 Training accuracy: 0.13
+Step: 200 Loss: 2.3488507 Training accuracy: 0.13
+Step: 300 Loss: 2.3682668 Training accuracy: 0.14
+Step: 400 Loss: 2.4027205 Training accuracy: 0.18
+Step: 500 Loss: 2.0981944 Training accuracy: 0.22
+Epoch: 0001 / Accuracy = 0.2305
+Step: 0 Loss: 2.3700354 Training accuracy: 0.17
+Step: 100 Loss: 2.1892865 Training accuracy: 0.26
+Step: 200 Loss: 2.1574354 Training accuracy: 0.28
+Step: 300 Loss: 2.1356285 Training accuracy: 0.22
+Step: 400 Loss: 1.9302438 Training accuracy: 0.42
+Step: 500 Loss: 1.8647352 Training accuracy: 0.29
+Epoch: 0002 / Accuracy = 0.3732
+Step: 0 Loss: 1.7339176 Training accuracy: 0.36
+Step: 100 Loss: 1.8050084 Training accuracy: 0.29
+Step: 200 Loss: 1.5484095 Training accuracy: 0.44
+Step: 300 Loss: 1.4963032 Training accuracy: 0.51
+Step: 400 Loss: 1.606667 Training accuracy: 0.46
+Step: 500 Loss: 1.6434587 Training accuracy: 0.36
+Epoch: 0003 / Accuracy = 0.5272
+Step: 0 Loss: 1.386552 Training accuracy: 0.51
+Step: 100 Loss: 1.23841 Training accuracy: 0.57
+Step: 200 Loss: 1.1943207 Training accuracy: 0.55
+Step: 300 Loss: 1.1031042 Training accuracy: 0.55
+Step: 400 Loss: 1.1769805 Training accuracy: 0.62
+Step: 500 Loss: 1.0717754 Training accuracy: 0.58
+Epoch: 0004 / Accuracy = 0.7177
+Step: 0 Loss: 1.1528976 Training accuracy: 0.55
+Step: 100 Loss: 1.091433 Training accuracy: 0.52
+Step: 200 Loss: 1.1759795 Training accuracy: 0.64
+Step: 300 Loss: 1.1183091 Training accuracy: 0.59
+Step: 400 Loss: 0.98970217 Training accuracy: 0.68
+Step: 500 Loss: 1.1473218 Training accuracy: 0.55
+Epoch: 0005 / Accuracy = 0.8347
+Step: 0 Loss: 0.9224504 Training accuracy: 0.62
+Step: 100 Loss: 0.9581482 Training accuracy: 0.7
+Step: 200 Loss: 0.97201747 Training accuracy: 0.71
+Step: 300 Loss: 0.93976873 Training accuracy: 0.69
+Step: 400 Loss: 0.6421926 Training accuracy: 0.74
+Step: 500 Loss: 0.58875257 Training accuracy: 0.79
+Epoch: 0006 / Accuracy = 0.8954
+Step: 0 Loss: 0.6126271 Training accuracy: 0.81
+Step: 100 Loss: 0.55697566 Training accuracy: 0.78
+Step: 200 Loss: 0.518513 Training accuracy: 0.77
+Step: 300 Loss: 0.67210114 Training accuracy: 0.74
+Step: 400 Loss: 0.77134913 Training accuracy: 0.76
+Step: 500 Loss: 0.41551903 Training accuracy: 0.82
+Epoch: 0007 / Accuracy = 0.9327
+Step: 0 Loss: 0.5879064 Training accuracy: 0.76
+Step: 100 Loss: 0.3975972 Training accuracy: 0.86
+Step: 200 Loss: 0.47690606 Training accuracy: 0.82
+Step: 300 Loss: 0.41103676 Training accuracy: 0.92
+Step: 400 Loss: 0.27581435 Training accuracy: 0.92
+Step: 500 Loss: 0.40284646 Training accuracy: 0.87
+Epoch: 0008 / Accuracy = 0.9454
+Step: 0 Loss: 0.32214397 Training accuracy: 0.9
+Step: 100 Loss: 0.29767594 Training accuracy: 0.94
+Step: 200 Loss: 0.29933023 Training accuracy: 0.92
+Step: 300 Loss: 0.53015745 Training accuracy: 0.88
+Step: 400 Loss: 0.46324933 Training accuracy: 0.82
+Step: 500 Loss: 0.34043977 Training accuracy: 0.88
+Epoch: 0009 / Accuracy = 0.959
+Step: 0 Loss: 0.35907066 Training accuracy: 0.84
+Step: 100 Loss: 0.28328013 Training accuracy: 0.88
+Step: 200 Loss: 0.28265107 Training accuracy: 0.91
+Step: 300 Loss: 0.42981896 Training accuracy: 0.92
+Step: 400 Loss: 0.32291278 Training accuracy: 0.89
+Step: 500 Loss: 0.28119838 Training accuracy: 0.9
+Epoch: 0010 / Accuracy = 0.9643
+Step: 0 Loss: 0.1966746 Training accuracy: 0.94
+Step: 100 Loss: 0.47773772 Training accuracy: 0.83
+Step: 200 Loss: 0.26756242 Training accuracy: 0.89
+Step: 300 Loss: 0.2544573 Training accuracy: 0.88
+Step: 400 Loss: 0.50152254 Training accuracy: 0.84
+Step: 500 Loss: 0.17490083 Training accuracy: 0.96
+Epoch: 0011 / Accuracy = 0.9692
+Step: 0 Loss: 0.15517053 Training accuracy: 0.94
+Step: 100 Loss: 0.32595965 Training accuracy: 0.86
+Step: 200 Loss: 0.26621962 Training accuracy: 0.94
+Step: 300 Loss: 0.17607462 Training accuracy: 0.95
+Step: 400 Loss: 0.20140533 Training accuracy: 0.92
+Step: 500 Loss: 0.097289875 Training accuracy: 0.94
+Epoch: 0012 / Accuracy = 0.9738
+Step: 0 Loss: 0.1468394 Training accuracy: 0.94
+Step: 100 Loss: 0.13941178 Training accuracy: 0.95
+Step: 200 Loss: 0.12383559 Training accuracy: 0.96
+Step: 300 Loss: 0.1121104 Training accuracy: 0.99
+Step: 400 Loss: 0.19043916 Training accuracy: 0.96
+Step: 500 Loss: 0.082766965 Training accuracy: 0.98
+Epoch: 0013 / Accuracy = 0.9771
+Step: 0 Loss: 0.15263297 Training accuracy: 0.97
+Step: 100 Loss: 0.112032406 Training accuracy: 0.96
+Step: 200 Loss: 0.23573315 Training accuracy: 0.94
+Step: 300 Loss: 0.11271381 Training accuracy: 0.97
+Step: 400 Loss: 0.18229634 Training accuracy: 0.97
+Step: 500 Loss: 0.1064026 Training accuracy: 0.96
+Epoch: 0014 / Accuracy = 0.9774
+Step: 0 Loss: 0.28050506 Training accuracy: 0.94
+Step: 100 Loss: 0.22241938 Training accuracy: 0.91
+Step: 200 Loss: 0.16289495 Training accuracy: 0.97
+Step: 300 Loss: 0.08083658 Training accuracy: 0.96
+Step: 400 Loss: 0.10261964 Training accuracy: 0.98
+Step: 500 Loss: 0.10757062 Training accuracy: 0.96
+Epoch: 0015 / Accuracy = 0.9797
+Step: 0 Loss: 0.21826221 Training accuracy: 0.93
+Step: 100 Loss: 0.106168516 Training accuracy: 0.95
+Step: 200 Loss: 0.14581907 Training accuracy: 0.93
+Step: 300 Loss: 0.1762098 Training accuracy: 0.97
+Step: 400 Loss: 0.17460631 Training accuracy: 0.97
+Step: 500 Loss: 0.13493997 Training accuracy: 0.95
+Epoch: 0016 / Accuracy = 0.9821
+Step: 0 Loss: 0.20193705 Training accuracy: 0.95
+Step: 100 Loss: 0.06965601 Training accuracy: 0.98
+Step: 200 Loss: 0.13925992 Training accuracy: 0.97
+Step: 300 Loss: 0.149847 Training accuracy: 0.96
+Step: 400 Loss: 0.09706389 Training accuracy: 0.96
+Step: 500 Loss: 0.13692297 Training accuracy: 0.95
+Epoch: 0017 / Accuracy = 0.9828
+Step: 0 Loss: 0.092004575 Training accuracy: 0.99
+Step: 100 Loss: 0.22851045 Training accuracy: 0.98
+Step: 200 Loss: 0.15072855 Training accuracy: 0.96
+Step: 300 Loss: 0.11643564 Training accuracy: 0.95
+Step: 400 Loss: 0.11679883 Training accuracy: 0.97
+Step: 500 Loss: 0.2019131 Training accuracy: 0.95
+Epoch: 0018 / Accuracy = 0.9844
+Step: 0 Loss: 0.1189018 Training accuracy: 0.96
+Step: 100 Loss: 0.11906433 Training accuracy: 0.97
+Step: 200 Loss: 0.23049667 Training accuracy: 0.98
+Step: 300 Loss: 0.10484968 Training accuracy: 0.96
+Step: 400 Loss: 0.21677244 Training accuracy: 0.95
+Step: 500 Loss: 0.22075018 Training accuracy: 0.96
+Epoch: 0019 / Accuracy = 0.9841
+Step: 0 Loss: 0.03084977 Training accuracy: 0.97
+Step: 100 Loss: 0.09653023 Training accuracy: 0.97
+Step: 200 Loss: 0.10072146 Training accuracy: 0.96
+Step: 300 Loss: 0.2203474 Training accuracy: 0.96
+Step: 400 Loss: 0.15537497 Training accuracy: 0.94
+Step: 500 Loss: 0.14476989 Training accuracy: 0.97
+Epoch: 0020 / Accuracy = 0.9838
+Step: 0 Loss: 0.11096698 Training accuracy: 0.99
+Step: 100 Loss: 0.04827493 Training accuracy: 0.97
+Step: 200 Loss: 0.1334434 Training accuracy: 0.97
+Step: 300 Loss: 0.18724987 Training accuracy: 0.99
+Step: 400 Loss: 0.06552583 Training accuracy: 0.99
+Step: 500 Loss: 0.11458207 Training accuracy: 0.97
+Epoch: 0021 / Accuracy = 0.9844
+Step: 0 Loss: 0.2204636 Training accuracy: 0.95
+Step: 100 Loss: 0.13250583 Training accuracy: 0.97
+Step: 200 Loss: 0.13923392 Training accuracy: 0.97
+Step: 300 Loss: 0.09862699 Training accuracy: 0.94
+Step: 400 Loss: 0.086900175 Training accuracy: 0.97
+Step: 500 Loss: 0.16896826 Training accuracy: 0.95
+Epoch: 0022 / Accuracy = 0.985
+Step: 0 Loss: 0.11855795 Training accuracy: 0.96
+Step: 100 Loss: 0.14907275 Training accuracy: 0.98
+Step: 200 Loss: 0.11002997 Training accuracy: 0.99
+Step: 300 Loss: 0.11965344 Training accuracy: 0.98
+Step: 400 Loss: 0.10634391 Training accuracy: 0.97
+Step: 500 Loss: 0.09944197 Training accuracy: 0.98
+Epoch: 0023 / Accuracy = 0.9861
+Step: 0 Loss: 0.19860281 Training accuracy: 0.94
+Step: 100 Loss: 0.17353004 Training accuracy: 0.97
+Step: 200 Loss: 0.22593346 Training accuracy: 0.93
+Step: 300 Loss: 0.19892319 Training accuracy: 0.97
+Step: 400 Loss: 0.11727612 Training accuracy: 0.97
+Step: 500 Loss: 0.071107745 Training accuracy: 0.98
+Epoch: 0024 / Accuracy = 0.9855
+Step: 0 Loss: 0.07199233 Training accuracy: 0.97
+Step: 100 Loss: 0.066792145 Training accuracy: 0.97
+Step: 200 Loss: 0.04141768 Training accuracy: 0.96
+Step: 300 Loss: 0.14191994 Training accuracy: 0.97
+Step: 400 Loss: 0.18519874 Training accuracy: 0.97
+Step: 500 Loss: 0.06567589 Training accuracy: 0.99
+Epoch: 0025 / Accuracy = 0.9864
+Step: 0 Loss: 0.06210664 Training accuracy: 0.96
+Step: 100 Loss: 0.046505895 Training accuracy: 0.99
+Step: 200 Loss: 0.028917395 Training accuracy: 1.0
+Step: 300 Loss: 0.12126296 Training accuracy: 0.96
+Step: 400 Loss: 0.03715658 Training accuracy: 1.0
+Step: 500 Loss: 0.07088783 Training accuracy: 0.98
+Epoch: 0026 / Accuracy = 0.9861
+Step: 0 Loss: 0.15344097 Training accuracy: 0.95
+Step: 100 Loss: 0.12624699 Training accuracy: 0.98
+Step: 200 Loss: 0.19868107 Training accuracy: 0.95
+Step: 300 Loss: 0.14118004 Training accuracy: 0.98
+Step: 400 Loss: 0.04461816 Training accuracy: 1.0
+Step: 500 Loss: 0.14005828 Training accuracy: 0.97
+Epoch: 0027 / Accuracy = 0.9868
+Step: 0 Loss: 0.0801664 Training accuracy: 0.97
+Step: 100 Loss: 0.12880857 Training accuracy: 0.97
+Step: 200 Loss: 0.042651296 Training accuracy: 0.99
+Step: 300 Loss: 0.065576866 Training accuracy: 0.99
+Step: 400 Loss: 0.093214914 Training accuracy: 0.99
+Step: 500 Loss: 0.053018216 Training accuracy: 0.98
+Epoch: 0028 / Accuracy = 0.9873
+Step: 0 Loss: 0.09255474 Training accuracy: 0.96
+Step: 100 Loss: 0.072415 Training accuracy: 0.97
+Step: 200 Loss: 0.028999576 Training accuracy: 0.99
+Step: 300 Loss: 0.07062017 Training accuracy: 0.99
+Step: 400 Loss: 0.10011625 Training accuracy: 0.98
+Step: 500 Loss: 0.20645702 Training accuracy: 0.99
+Epoch: 0029 / Accuracy = 0.9867
+Step: 0 Loss: 0.088723525 Training accuracy: 0.97
+Step: 100 Loss: 0.04004298 Training accuracy: 0.98
+Step: 200 Loss: 0.046724677 Training accuracy: 0.97
+Step: 300 Loss: 0.01753867 Training accuracy: 0.99
+Step: 400 Loss: 0.09424499 Training accuracy: 0.96
+Step: 500 Loss: 0.12540019 Training accuracy: 0.98
+Epoch: 0030 / Accuracy = 0.9873
+Step: 0 Loss: 0.05495691 Training accuracy: 0.98
+Step: 100 Loss: 0.09396999 Training accuracy: 1.0
+Step: 200 Loss: 0.018248437 Training accuracy: 0.98
+Step: 300 Loss: 0.018184397 Training accuracy: 0.97
+Step: 400 Loss: 0.061173223 Training accuracy: 0.99
+Step: 500 Loss: 0.018730808 Training accuracy: 1.0
+Epoch: 0031 / Accuracy = 0.9866
+Step: 0 Loss: 0.1368208 Training accuracy: 0.97
+Step: 100 Loss: 0.13523537 Training accuracy: 0.96
+Step: 200 Loss: 0.15520634 Training accuracy: 0.96
+Step: 300 Loss: 0.039868884 Training accuracy: 0.95
+Step: 400 Loss: 0.025711525 Training accuracy: 0.99
+Step: 500 Loss: 0.07324367 Training accuracy: 0.99
+Epoch: 0032 / Accuracy = 0.9873
+Step: 0 Loss: 0.17301711 Training accuracy: 0.96
+Step: 100 Loss: 0.07512219 Training accuracy: 0.97
+Step: 200 Loss: 0.08440389 Training accuracy: 0.99
+Step: 300 Loss: 0.09461063 Training accuracy: 0.96
+Step: 400 Loss: 0.016388332 Training accuracy: 0.99
+Step: 500 Loss: 0.03996871 Training accuracy: 0.99
+Epoch: 0033 / Accuracy = 0.9869
+Step: 0 Loss: 0.16895941 Training accuracy: 0.95
+Step: 100 Loss: 0.072880805 Training accuracy: 1.0
+Step: 200 Loss: 0.15360002 Training accuracy: 0.98
+Step: 300 Loss: 0.10995081 Training accuracy: 0.98
+Step: 400 Loss: 0.063357815 Training accuracy: 0.97
+Step: 500 Loss: 0.037149295 Training accuracy: 1.0
+Epoch: 0034 / Accuracy = 0.9868
+Step: 0 Loss: 0.080859855 Training accuracy: 0.97
+Step: 100 Loss: 0.071655825 Training accuracy: 0.96
+Step: 200 Loss: 0.04443412 Training accuracy: 0.98
+Step: 300 Loss: 0.05206062 Training accuracy: 0.98
+Step: 400 Loss: 0.14155442 Training accuracy: 0.97
+Step: 500 Loss: 0.15793385 Training accuracy: 0.98
+Epoch: 0035 / Accuracy = 0.987
+Step: 0 Loss: 0.062367495 Training accuracy: 0.98
+Step: 100 Loss: 0.09617791 Training accuracy: 0.97
+Step: 200 Loss: 0.11920366 Training accuracy: 0.97
+Step: 300 Loss: 0.13216203 Training accuracy: 0.95
+Step: 400 Loss: 0.18491593 Training accuracy: 0.96
+Step: 500 Loss: 0.18021436 Training accuracy: 0.94
+Epoch: 0036 / Accuracy = 0.9871
+Step: 0 Loss: 0.17076267 Training accuracy: 0.95
+Step: 100 Loss: 0.04899336 Training accuracy: 0.97
+Step: 200 Loss: 0.2097538 Training accuracy: 0.95
+Step: 300 Loss: 0.059628926 Training accuracy: 0.94
+Step: 400 Loss: 0.16240674 Training accuracy: 0.99
+Step: 500 Loss: 0.15081516 Training accuracy: 0.97
+Epoch: 0037 / Accuracy = 0.9869
+Step: 0 Loss: 0.03308255 Training accuracy: 0.98
+Step: 100 Loss: 0.13583429 Training accuracy: 0.96
+Step: 200 Loss: 0.13594998 Training accuracy: 0.97
+Step: 300 Loss: 0.056020554 Training accuracy: 0.98
+Step: 400 Loss: 0.06260852 Training accuracy: 0.98
+Step: 500 Loss: 0.10902836 Training accuracy: 0.92
+Epoch: 0038 / Accuracy = 0.9874
+Step: 0 Loss: 0.1254651 Training accuracy: 0.97
+Step: 100 Loss: 0.031298563 Training accuracy: 0.99
+Step: 200 Loss: 0.08552801 Training accuracy: 0.98
+Step: 300 Loss: 0.12228243 Training accuracy: 0.96
+Step: 400 Loss: 0.026447883 Training accuracy: 1.0
+Step: 500 Loss: 0.031981464 Training accuracy: 0.99
+Epoch: 0039 / Accuracy = 0.9871
+Step: 0 Loss: 0.09580266 Training accuracy: 0.94
+Step: 100 Loss: 0.12481781 Training accuracy: 0.97
+Step: 200 Loss: 0.12289339 Training accuracy: 0.99
+Step: 300 Loss: 0.023846654 Training accuracy: 1.0
+Step: 400 Loss: 0.040506896 Training accuracy: 0.99
+Step: 500 Loss: 0.1277124 Training accuracy: 0.96
+Epoch: 0040 / Accuracy = 0.9875
+Step: 0 Loss: 0.026214244 Training accuracy: 0.99
+Step: 100 Loss: 0.12431888 Training accuracy: 0.97
+Step: 200 Loss: 0.14001288 Training accuracy: 0.97
+Step: 300 Loss: 0.07650207 Training accuracy: 0.95
+Step: 400 Loss: 0.08747447 Training accuracy: 0.96
+Step: 500 Loss: 0.035323203 Training accuracy: 0.99
+Epoch: 0041 / Accuracy = 0.9873
+Step: 0 Loss: 0.04807117 Training accuracy: 0.97
+Step: 100 Loss: 0.09428729 Training accuracy: 0.98
+Step: 200 Loss: 0.12408462 Training accuracy: 0.99
+Step: 300 Loss: 0.061956316 Training accuracy: 0.99
+Step: 400 Loss: 0.12336318 Training accuracy: 0.97
+Step: 500 Loss: 0.09608122 Training accuracy: 0.97
+Epoch: 0042 / Accuracy = 0.9872
+Step: 0 Loss: 0.025834268 Training accuracy: 0.98
+Step: 100 Loss: 0.15517217 Training accuracy: 0.99
+Step: 200 Loss: 0.28062946 Training accuracy: 0.96
+Step: 300 Loss: 0.084905565 Training accuracy: 0.97
+Step: 400 Loss: 0.19590707 Training accuracy: 0.94
+Step: 500 Loss: 0.15303586 Training accuracy: 0.92
+Epoch: 0043 / Accuracy = 0.9875
+Step: 0 Loss: 0.1100529 Training accuracy: 0.98
+Step: 100 Loss: 0.1352622 Training accuracy: 0.95
+Step: 200 Loss: 0.184633 Training accuracy: 0.94
+Step: 300 Loss: 0.058974754 Training accuracy: 0.99
+Step: 400 Loss: 0.063847944 Training accuracy: 1.0
+Step: 500 Loss: 0.045773886 Training accuracy: 1.0
+Epoch: 0044 / Accuracy = 0.9872
+Step: 0 Loss: 0.083776034 Training accuracy: 0.98
+Step: 100 Loss: 0.057954673 Training accuracy: 0.96
+Step: 200 Loss: 0.05207518 Training accuracy: 0.97
+Step: 300 Loss: 0.034689054 Training accuracy: 0.98
+Step: 400 Loss: 0.057762384 Training accuracy: 1.0
+Step: 500 Loss: 0.020870522 Training accuracy: 1.0
+Epoch: 0045 / Accuracy = 0.9876
+Step: 0 Loss: 0.09413509 Training accuracy: 0.97
+Step: 100 Loss: 0.0678654 Training accuracy: 0.99
+Step: 200 Loss: 0.11266059 Training accuracy: 0.96
+Step: 300 Loss: 0.038987264 Training accuracy: 0.98
+Step: 400 Loss: 0.11434152 Training accuracy: 0.97
+Step: 500 Loss: 0.17077985 Training accuracy: 0.93
+Epoch: 0046 / Accuracy = 0.9874
+Step: 0 Loss: 0.087636106 Training accuracy: 0.99
+Step: 100 Loss: 0.040976506 Training accuracy: 1.0
+Step: 200 Loss: 0.07234016 Training accuracy: 0.99
+Step: 300 Loss: 0.05197705 Training accuracy: 0.99
+Step: 400 Loss: 0.03759651 Training accuracy: 0.99
+Step: 500 Loss: 0.09856885 Training accuracy: 0.97
+Epoch: 0047 / Accuracy = 0.987
+Step: 0 Loss: 0.017276809 Training accuracy: 0.99
+Step: 100 Loss: 0.09371867 Training accuracy: 0.96
+Step: 200 Loss: 0.021361558 Training accuracy: 0.99
+Step: 300 Loss: 0.07560461 Training accuracy: 0.97
+Step: 400 Loss: 0.103675276 Training accuracy: 0.99
+Step: 500 Loss: 0.10635477 Training accuracy: 0.97
+Epoch: 0048 / Accuracy = 0.9876
+Step: 0 Loss: 0.096017726 Training accuracy: 1.0
+Step: 100 Loss: 0.03788469 Training accuracy: 0.98
+Step: 200 Loss: 0.082689695 Training accuracy: 0.97
+Step: 300 Loss: 0.113662854 Training accuracy: 0.91
+Step: 400 Loss: 0.061791796 Training accuracy: 0.96
+Step: 500 Loss: 0.033058252 Training accuracy: 0.98
+Epoch: 0049 / Accuracy = 0.9877
+Step: 0 Loss: 0.091710895 Training accuracy: 0.99
+Step: 100 Loss: 0.055919614 Training accuracy: 0.98
+Step: 200 Loss: 0.02764013 Training accuracy: 0.98
+Step: 300 Loss: 0.049802467 Training accuracy: 0.97
+Step: 400 Loss: 0.07240446 Training accuracy: 0.97
+Step: 500 Loss: 0.04318024 Training accuracy: 0.99
+Epoch: 0050 / Accuracy = 0.9873
+

@@ -1,0 +1,19 @@
+test pendigits begin
+Original sets with default parameters begin
+..*
+
+Accuracy = 13.6935% (479/3498) (classification)
+Original sets with default parameters end
+Scaled sets with default parameters begin
+Accuracy = 93.7107% (3278/3498) (classification)
+Scaled sets with default parameters end
+linear kernel begin
+Accuracy = 94.9971% (3323/3498) (classification)
+linear kernel end
+polynomial kernel begin
+Accuracy = 89.4511% (3129/3498) (classification)
+polynomial kernel end
+sigmoid kernel begin
+
+Accuracy = 88.8508% (3108/3498) (classification)
+sigmoid kernel end

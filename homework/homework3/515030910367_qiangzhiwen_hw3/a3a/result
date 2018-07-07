@@ -1,0 +1,43 @@
+begin
+rbf grid test
+.*
+optimization finished, #iter = 1799
+nu = 0.370364
+obj = -2181.035590, rho = -0.092689
+nSV = 1271, nBSV = 1102
+Total nSV = 1271
+Accuracy = 84.4056% (24795/29376) (classification)
+linear
+.......*........*.....*
+optimization finished, #iter = 20294
+nu = 0.352027
+obj = -1104.831194, rho = -1.878799
+nSV = 1164, nBSV = 1079
+Total nSV = 1164
+Accuracy = 84.3307% (24773/29376) (classification)
+polynomial
+*
+optimization finished, #iter = 817
+nu = 0.485400
+obj = -1541.529244, rho = -0.996001
+nSV = 1560, nBSV = 1530
+Total nSV = 1560
+Accuracy = 75.9395% (22308/29376) (classification)
+sigmoid
+*
+optimization finished, #iter = 872
+nu = 0.455465
+obj = -1340.130621, rho = -0.885601
+nSV = 1464, nBSV = 1440
+Total nSV = 1464
+Accuracy = 83.3878% (24496/29376) (classification)
+radial basis function
+*
+optimization finished, #iter = 911
+nu = 0.428942
+obj = -1270.050912, rho = -0.620246
+nSV = 1388, nBSV = 1345
+Total nSV = 1388
+Accuracy = 83.8406% (24629/29376) (classification)
+end
+
